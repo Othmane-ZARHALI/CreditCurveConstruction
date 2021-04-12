@@ -1,1 +1,3 @@
-Learning the credit spread curve
+CreditCurveConstruction
+
+Learning credit spread curves
