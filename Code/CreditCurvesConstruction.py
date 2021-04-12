@@ -1,4 +1,4 @@
-""" Project : quantitative strategies in building credit curves
+""" Project : quantitative strategies | credit spread curve building
 Done by : Othmane ZARHALI
 
 """
