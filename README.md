@@ -1,4 +1,4 @@
-# CreditCurveConstruction
+# Credit Curve Construction
 
 ## Target
 Learning credit spread curves from the market spread term structure
